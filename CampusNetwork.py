@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-校园网自动联网 - 广西农业职业技术大学
+校园网自动联网 - 农职大
 读取 配置.txt 中的账号信息，自动登录校园网
 """
 import time, os, sys, requests
